@@ -9,7 +9,8 @@ body {
 }
 
 :root {
-  font-size: 62.5%;
+  font-size: 62.5%; 
+  /* O tamanho da fonte na Raiz do navegador, é 16px, 62.5% disso equivale à 10px */
 }
 
 body,
